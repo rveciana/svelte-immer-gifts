@@ -5,7 +5,7 @@
     getBookDetails,
     giftsReducer,
     patchGeneratingGiftsReducer
-  } from "./www";
+  } from "./immerUtils";
   import Gift from "./Gift.svelte";
   import { onMount } from "svelte";
   import uuidv4 from "uuid/v4";
