@@ -1,0 +1,21 @@
+body {
+	font: 12pt "Century Gothic", Futura, sans-serif;
+	margin: 20px;
+	background: #3a2418;
+	color: white;
+  }
+  
+  h1 {
+	color: orange;
+	font-size: 40pt;
+  }
+  
+  h2 {
+	color: orange;
+  }
+  
+  .app {
+	margin: auto;
+	max-width: 800px;
+  }
+  
